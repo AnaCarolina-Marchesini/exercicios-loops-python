@@ -14,6 +14,5 @@ while True:
         print('Você está dentro dos parâmetros pedidos!')
         # e o programa é encerrado.
         break
-    # senão, o programa volta ao começo e repete a pergunta até que o criterio seja atingido.
-    else:
-        continue
+
+    print('Valor inválido. Tente novamente.')
