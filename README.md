@@ -8,7 +8,6 @@ https://www.pythonprogressivo.net/2018/06/Lista-Exercicios-Lacos-Looping-Python.
 
 ## 🧠 Exercício 1
 
-**Enunciado:**  
 Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
 
 ---
