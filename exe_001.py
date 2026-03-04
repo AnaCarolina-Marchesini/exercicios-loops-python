@@ -15,4 +15,5 @@ while True:
         # e o programa é encerrado.
         break
 
+    # esse print vai ser exibido, se o que for digitado não estiver nos criterios.
     print('Valor inválido. Tente novamente.')
